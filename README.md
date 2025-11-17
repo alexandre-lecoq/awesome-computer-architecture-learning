@@ -1,3 +1,4 @@
+
 # Awesome Computer Architecture Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Computer Architecture Learning courses, tools and resources.
@@ -20,6 +21,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2) - Part 2 on coursera
 - [Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems) - This course gives you a complete insight into the modern design of digital systems fundamentals from an eminently practical point of view. 
 - [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) - Learn CPU architecture with puzzles
+- [One Student One Chip](https://ysyx.oscc.cc/docs/en/) - risc-v cpu course
 
 ## Advanced Courses
 
